@@ -1,0 +1,173 @@
+.forma-naslov{
+    text-align: center;
+}
+
+.input-naslov{
+    width: 100%;
+    height: 40px;
+    border: 1px solid #c4c4c4;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.input-sadrzaj{
+    width: 100%;
+    height: 300px;
+    background: #ffffff;
+    border: 1px solid #c4c4c4;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.input-slika{
+    width: 100%;
+    height: 30px;
+    border: 1px solid #c4c4c4;
+}
+
+.dugme-center{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.forma-dugme{
+    background-color: #fff;
+    border: 1px solid #c4c4c4;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.clanak{
+    text-align:center;
+    background-color: #fff;
+}
+
+.clanak h1{
+    font-size: 40px;
+}
+
+.dodavanje-clanka{
+    margin: 20px;
+    text-align: right;
+}
+
+.dugme-dodavanje-clanka{
+    background-color: #fff;
+    border: 3px solid #e9e9e9;
+    border-radius: 6px;
+    padding: 10px 40px;
+}
+
+.details{
+    margin: 20px;
+    padding: 15px 60px;
+    width: 20%;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 6px;
+}
+
+.slika{
+    padding: 60px;
+    background-color: #f3f2f2;
+    width: 80%;
+}
+
+.clanak-detalji{
+    text-align: center;
+}
+
+.clanak-detalji p{
+    text-align: justify;
+    margin: 30px 80px;
+}
+
+.dugme-edit{
+    margin: 20px;
+    padding: 10px 60px;
+    background-color: #fff;
+    border: 3px solid #e9e9e9;
+}
+
+.dugme-delete{
+    margin: 20px;
+    padding: 10px 60px;
+    background-color: #fff;
+    border: 3px solid #e9e9e9;
+}
+
+.pocetna-stranica{
+    text-align: center;
+}
+
+.pocetna-stranica h1{
+    font-size: 40px;
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.dugme-login{
+    margin: 20px;
+    padding: 15px 60px;
+    background-color: #fff;
+    border: 3px solid #cecece;
+    border-radius: 6px;
+}
+
+.dugme-register{
+    margin: 20px;
+    padding: 15px 60px;
+    background-color: #fff;
+    border: 3px solid #cecece;
+    border-radius: 6px;
+}
+
+.guest{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #000;
+}
+
+.login-forma{
+    margin-top: 8em;
+    text-align: center;
+}
+
+.login-forma input{
+    margin: 20px;
+    width: 400px;
+    height: 50px;
+}
+
+.login-forma button{
+    margin-top: 40px;
+    width: 10%;
+    height: 40px;
+    background-color: #fff;
+    border: 3px solid #cacaca;
+    border-radius: 6px;
+}
+
+.register-forma{
+    margin-top: 8em;
+    text-align: center;
+}
+
+.register-forma input{
+    margin: 20px;
+    width: 400px;
+    height: 50px;
+}
+
+.register-forma button{
+    margin-top: 40px;
+    width: 10%;
+    height: 40px;
+    background-color: #fff;
+    border: 3px solid #cacaca;
+    border-radius: 6px;
+}
+
+.error{
+    text-align: center;
+}
